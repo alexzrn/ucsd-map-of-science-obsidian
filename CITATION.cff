@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "UCSD Map of Science for Obsidian"
+message: "If you use this derivative vault, cite the original UCSD Map of Science paper listed as the preferred citation."
+type: dataset
+authors:
+  - name: "alexzorin"
+doi: "10.1371/journal.pone.0039464"
+url: "https://cns.iu.edu/2012-UCSDMap.html"
+license: "CC-BY-NC-SA-3.0"
+preferred-citation:
+  type: article
+  title: "Design and Update of a Classification System: The UCSD Map of Science"
+  authors:
+    - family-names: "Börner"
+      given-names: "Katy"
+    - family-names: "Klavans"
+      given-names: "Richard"
+    - family-names: "Patek"
+      given-names: "Michael"
+    - family-names: "Zoss"
+      given-names: "Angela M."
+    - family-names: "Biberstine"
+      given-names: "Joseph R."
+    - family-names: "Light"
+      given-names: "Robert P."
+    - family-names: "Larivière"
+      given-names: "Vincent"
+    - family-names: "Boyack"
+      given-names: "Kevin W."
+  journal: "PLoS ONE"
+  volume: 7
+  issue: 7
+  year: 2012
+  doi: "10.1371/journal.pone.0039464"

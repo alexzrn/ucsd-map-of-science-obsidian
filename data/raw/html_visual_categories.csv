@@ -1,0 +1,557 @@
+subd_name,visual_category,visual_color
+Clinical Cancer Research,Medical Sciences,#FF1177
+Circulation,Medical Sciences,#FF1177
+Anesthetics & Analgesics,Medical Sciences,#FF1177
+Urology,Medical Sciences,#FF1177
+Oncology,Medical Sciences,#FF1177
+Rheumatology,Medical Sciences,#FF1177
+Leukemia,Medical Sciences,#FF1177
+Allergy & Clinical Immunology,Medical Sciences,#FF1177
+Dermatology,Medical Sciences,#FF1177
+Kidney,Medical Sciences,#FF1177
+Pharmacology Science,Medical Sciences,#FF1177
+Developmental Biology,Medical Sciences,#FF1177
+Digestion,Medical Sciences,#FF1177
+Toxicology Applied Pharmacology,Medical Sciences,#FF1177
+Diabetes Care,Medical Sciences,#FF1177
+Ophthalmology,Medical Sciences,#FF1177
+Fertility,Medical Sciences,#FF1177
+Obstetrics,Medical Sciences,#FF1177
+Chest & Respiratory,Medical Sciences,#FF1177
+Vascular Surgery,Medical Sciences,#FF1177
+Pediatrics,Medical Sciences,#FF1177
+Cardiovascular,Medical Sciences,#FF1177
+Human Molecular Genetics,Medical Sciences,#FF1177
+Clinical Endocrinology,Medical Sciences,#FF1177
+Dietetics,Medical Sciences,#FF1177
+Surgery,Medical Sciences,#FF1177
+AIDS Research,Medical Sciences,#FF1177
+Transplantation,Medical Sciences,#FF1177
+Thoracic Surgery,Medical Sciences,#FF1177
+Pathology,Medical Sciences,#FF1177
+Stem Cells,Medical Sciences,#FF1177
+Intensive Care,Medical Sciences,#FF1177
+Pharmacy,Medical Sciences,#FF1177
+Endoscopic Surgery,Medical Sciences,#FF1177
+Nuclear Medicine,Medical Sciences,#FF1177
+Clinical Infectious Disease,Medical Sciences,#FF1177
+Radiation Protection,Medical Sciences,#FF1177
+Birth Defects,Medical Sciences,#FF1177
+Thrombosis,Medical Sciences,#FF1177
+Diabetes Metabolism,Medical Sciences,#FF1177
+Clinical Chemistry,Medical Sciences,#FF1177
+Prenatal Diagnostics,Medical Sciences,#FF1177
+Cancer (translated),Medical Sciences,#FF1177
+Electrocardiography,Medical Sciences,#FF1177
+Molecular Endocrinology,Medical Sciences,#FF1177
+Bone & Osteoporosis,Medical Sciences,#FF1177
+Radiation Therapy,Medical Sciences,#FF1177
+Transfusion,Medical Sciences,#FF1177
+Atherosclerosis,Medical Sciences,#FF1177
+Thoracic & Respiratory,Medical Sciences,#FF1177
+Endoscopy,Medical Sciences,#FF1177
+Clinical Medicine (translated),Medical Sciences,#FF1177
+Hepatology,Medical Sciences,#FF1177
+Eye,Medical Sciences,#FF1177
+Radiology,Medical Sciences,#FF1177
+Gut,Medical Sciences,#FF1177
+Surgical Oncology,Medical Sciences,#FF1177
+Clinical Rehabilitation,Medical Sciences,#FF1177
+Drug Safety,Medical Sciences,#FF1177
+Dermatological Surgery,Medical Sciences,#FF1177
+Gynecology Oncology,Medical Sciences,#FF1177
+Heart Failure; Catheters,Medical Sciences,#FF1177
+Menopause,Medical Sciences,#FF1177
+Pulmonary,Medical Sciences,#FF1177
+Lung Cancer,Medical Sciences,#FF1177
+Impotence,Medical Sciences,#FF1177
+Hormone Research,Medical Sciences,#FF1177
+Pediatric Research,Medical Sciences,#FF1177
+Clinical Medicine (Romania),Medical Sciences,#FF1177
+Medical Specialties,Medical Sciences,#FF1177
+Data Mining,Computer Science & Engineering,#CC00FF
+Signal Processing,Computer Science & Engineering,#CC00FF
+Applied Optics,Computer Science & Engineering,#CC00FF
+Systems Software,Computer Science & Engineering,#CC00FF
+Antenna,Computer Science & Engineering,#CC00FF
+Circuit Systems,Computer Science & Engineering,#CC00FF
+Automatic Control,Computer Science & Engineering,#CC00FF
+Broadband Communication,Computer Science & Engineering,#CC00FF
+Integrated Circuit Design,Computer Science & Engineering,#CC00FF
+Image Processing,Computer Science & Engineering,#CC00FF
+Neural Networks,Computer Science & Engineering,#CC00FF
+Parallel Computing,Computer Science & Engineering,#CC00FF
+Power Distribution,Computer Science & Engineering,#CC00FF
+Mobile Networks,Computer Science & Engineering,#CC00FF
+Artificial Intelligence,Computer Science & Engineering,#CC00FF
+Library Science; Information Retrieval,Computer Science & Engineering,#CC00FF
+Solid State Electronics,Computer Science & Engineering,#CC00FF
+Speech Recognition,Computer Science & Engineering,#CC00FF
+Computer Graphics,Computer Science & Engineering,#CC00FF
+Robotic Systems,Computer Science & Engineering,#CC00FF
+Artificial Evolution,Computer Science & Engineering,#CC00FF
+Photo-Optics,Computer Science & Engineering,#CC00FF
+Robotics,Computer Science & Engineering,#CC00FF
+Instrumentation,Computer Science & Engineering,#CC00FF
+Dielectrics,Computer Science & Engineering,#CC00FF
+Search Engines; Web Crawling,Computer Science & Engineering,#CC00FF
+Fault Tolerant Computing,Computer Science & Engineering,#CC00FF
+Spyware; Malware,Computer Science & Engineering,#CC00FF
+Fuzzy Sets,Computer Science & Engineering,#CC00FF
+Wireless Communication,Computer Science & Engineering,#CC00FF
+Computer Systems Design,Computer Science & Engineering,#CC00FF
+Electrical Networks,Computer Science & Engineering,#CC00FF
+Pattern Recognition,Computer Science & Engineering,#CC00FF
+Test Equipment,Computer Science & Engineering,#CC00FF
+Logic,Computer Science & Engineering,#CC00FF
+Software Design and Development,Computer Science & Engineering,#CC00FF
+Database Design & Management,Computer Science & Engineering,#CC00FF
+Electronic Imaging,Computer Science & Engineering,#CC00FF
+Functional Programing,Computer Science & Engineering,#CC00FF
+Microwaves; Radio Frequencies,Computer Science & Engineering,#CC00FF
+Security; Cryptography,Computer Science & Engineering,#CC00FF
+Power Systems,Computer Science & Engineering,#CC00FF
+Chip Design & Manufacturing,Computer Science & Engineering,#CC00FF
+Computer Networks,Computer Science & Engineering,#CC00FF
+User Interface Design,Computer Science & Engineering,#CC00FF
+Control Systems,Computer Science & Engineering,#CC00FF
+Machine Learning,Computer Science & Engineering,#CC00FF
+Medical Image Processing,Computer Science & Engineering,#CC00FF
+Power Transmission,Computer Science & Engineering,#CC00FF
+Computer Systems Theory,Computer Science & Engineering,#CC00FF
+Computer Modeling and Animation,Computer Science & Engineering,#CC00FF
+Circuits,Computer Science & Engineering,#CC00FF
+Antennae; Mobile Radio,Computer Science & Engineering,#CC00FF
+Consumer Electronics,Computer Science & Engineering,#CC00FF
+Electronics,Computer Science & Engineering,#CC00FF
+Fuzzy Logic,Computer Science & Engineering,#CC00FF
+Hydraulics,Computer Science & Engineering,#CC00FF
+Protein Science,Biotechnology,#39FF14
+Food Protection,Biotechnology,#39FF14
+Genomics & Nucleic Acids,Biotechnology,#39FF14
+BioInformatics,Biotechnology,#39FF14
+Enzyme Microbiological Techniques,Biotechnology,#39FF14
+Proteomics,Biotechnology,#39FF14
+Biotechnology Trends,Biotechnology,#39FF14
+Microbiology Biotechnology,Biotechnology,#39FF14
+Systematics & Evolutionary Microbiology,Biotechnology,#39FF14
+Food Engineering,Biotechnology,#39FF14
+Biotechnology Bioengineering,Biotechnology,#39FF14
+Neuroscience; Molecular & Cellular,Neuroscience,#FFFF00
+Affective Disorders,Neuroscience,#FFFF00
+Medical Imaging,Neuroscience,#FFFF00
+Clinical Neurophysiology,Neuroscience,#FFFF00
+Neurosurgery,Neuroscience,#FFFF00
+Neurology,Neuroscience,#FFFF00
+Psychopharmacology,Neuroscience,#FFFF00
+Otolaryngology; Laryngoscope,Neuroscience,#FFFF00
+Memory & Cognition,Neuroscience,#FFFF00
+Vision,Neuroscience,#FFFF00
+Psychosis; Schizophrenia,Neuroscience,#FFFF00
+Geriatrics,Neuroscience,#FFFF00
+Neurophysiology & Neuroscience,Neuroscience,#FFFF00
+Child & Adolescent Psychiatry,Neuroscience,#FFFF00
+Geriatric Psychiatry,Neuroscience,#FFFF00
+Speech Language & Hearing,Neuroscience,#FFFF00
+Epilepsy,Neuroscience,#FFFF00
+Forensic Psychiatry,Neuroscience,#FFFF00
+Physical Therapy; Brain Injury,Neuroscience,#FFFF00
+Neuroscience Methods,Neuroscience,#FFFF00
+NeuroImmunology,Neuroscience,#FFFF00
+Magnetic Resonance Imagery,Neuroscience,#FFFF00
+Consciousness,Neuroscience,#FFFF00
+Headache,Neuroscience,#FFFF00
+Hearing Research,Neuroscience,#FFFF00
+Forensic Science,Neuroscience,#FFFF00
+Sleep,Neuroscience,#FFFF00
+Neurotoxicology,Neuroscience,#FFFF00
+Immunology,Microbiology & Immunology,#FF3131
+Virology,Microbiology & Immunology,#FF3131
+Bacteriology,Microbiology & Immunology,#FF3131
+Molecular Cell Biology,Microbiology & Immunology,#FF3131
+AntiMicrobial Agents,Microbiology & Immunology,#FF3131
+Clinical Microbiology,Microbiology & Immunology,#FF3131
+Animal Science,Microbiology & Immunology,#FF3131
+Tropical Medicine,Microbiology & Immunology,#FF3131
+Veterinary Science,Microbiology & Immunology,#FF3131
+Veterinary Medicine,Microbiology & Immunology,#FF3131
+Veterinary Microbiology,Microbiology & Immunology,#FF3131
+Mutation; DNA Repair,Microbiology & Immunology,#FF3131
+Dairy Science,Microbiology & Immunology,#FF3131
+World Health Organization,Microbiology & Immunology,#FF3131
+Vaccines,Microbiology & Immunology,#FF3131
+Gene Therapy,Microbiology & Immunology,#FF3131
+Cytogenetics & Genome Mapping,Microbiology & Immunology,#FF3131
+Peptides,Microbiology & Immunology,#FF3131
+Sexually Transmitted Diseases,Microbiology & Immunology,#FF3131
+Reproduction Veterinary,Microbiology & Immunology,#FF3131
+Poultry Science,Microbiology & Immunology,#FF3131
+Molecular Biology Methods,Microbiology & Immunology,#FF3131
+Agricultural Environmental Medicine,Microbiology & Immunology,#FF3131
+Macromolecules & Polymers,Chemistry,#00FFFF
+Organic Chemistry,Chemistry,#00FFFF
+Inorganic Chemistry,Chemistry,#00FFFF
+Pharmaceutical Research,Chemistry,#00FFFF
+Food Chemistry,Chemistry,#00FFFF
+Pharmaceutical Design,Chemistry,#00FFFF
+Chromatography; Electrophoresis,Chemistry,#00FFFF
+Computational Chemistry,Chemistry,#00FFFF
+Phytochemistry,Chemistry,#00FFFF
+Electro Analytical Chemistry,Chemistry,#00FFFF
+Molecular Physics,Chemistry,#00FFFF
+Nanotechnology,Chemistry,#00FFFF
+Atomic Spectrometry,Chemistry,#00FFFF
+Catalysis,Chemistry,#00FFFF
+Flavors & Fragrance,Chemistry,#00FFFF
+EthnoPharmacology,Chemistry,#00FFFF
+Applied Catalysis,Chemistry,#00FFFF
+Colloid,Chemistry,#00FFFF
+Chemistry & Material Science,Chemistry,#00FFFF
+Computer Aided Molecular Design,Chemistry,#00FFFF
+Environmental Chemistry,Chemistry,#00FFFF
+Surfactants,Chemistry,#00FFFF
+Mass Spectrometry,Chemistry,#00FFFF
+Thermal Analysis,Chemistry,#00FFFF
+Liquid Crystals,Chemistry,#00FFFF
+Carbon,Chemistry,#00FFFF
+Chemistry (Russia),Chemistry,#00FFFF
+Crystallography,Chemistry,#00FFFF
+Toxins,Chemistry,#00FFFF
+Carbohydrate Research,Chemistry,#00FFFF
+Green Chemistry,Chemistry,#00FFFF
+Paints & Coatings,Chemistry,#00FFFF
+Surface Science,Physics & Mathematics,#FF00FF
+Nonlinear Analysis,Physics & Mathematics,#FF00FF
+Semiconducting Materials,Physics & Mathematics,#FF00FF
+Algebra,Physics & Mathematics,#FF00FF
+Astronomy & Astrophysics,Physics & Mathematics,#FF00FF
+Chaos Fractals & Complexity,Physics & Mathematics,#FF00FF
+High Energy Physics,Physics & Mathematics,#FF00FF
+Discrete Applied Mathematics,Physics & Mathematics,#FF00FF
+Optics & Lasers,Physics & Mathematics,#FF00FF
+Photonics,Physics & Mathematics,#FF00FF
+Functional Analysis,Physics & Mathematics,#FF00FF
+Simulation,Physics & Mathematics,#FF00FF
+Nuclear Instrumentation,Physics & Mathematics,#FF00FF
+Plasma Physics,Physics & Mathematics,#FF00FF
+Surface Coating Technology,Physics & Mathematics,#FF00FF
+Design & Analysis of Algorithms,Physics & Mathematics,#FF00FF
+Space Research,Physics & Mathematics,#FF00FF
+Mathematics Research,Physics & Mathematics,#FF00FF
+Computational Math,Physics & Mathematics,#FF00FF
+Geophysical Science,Physics & Mathematics,#FF00FF
+Nuclear Physics,Physics & Mathematics,#FF00FF
+Optimization Theory,Physics & Mathematics,#FF00FF
+Mathematical Science (Russia),Physics & Mathematics,#FF00FF
+Topology,Physics & Mathematics,#FF00FF
+Physics; Current Developments,Physics & Mathematics,#FF00FF
+Cancer Statistics,Physics & Mathematics,#FF00FF
+Superconductor Science,Physics & Mathematics,#FF00FF
+Applied Math,Physics & Mathematics,#FF00FF
+Hospital Financial Management,Healthcare & Nursing,#FF9933
+Occupational Health,Healthcare & Nursing,#FF9933
+Nutrition,Healthcare & Nursing,#FF9933
+Bone Joint Surgery,Healthcare & Nursing,#FF9933
+Nursing Specialists,Healthcare & Nursing,#FF9933
+Retinal Surgery,Healthcare & Nursing,#FF9933
+Psychoanalysis,Healthcare & Nursing,#FF9933
+Sports Medicine,Healthcare & Nursing,#FF9933
+Hypertension,Healthcare & Nursing,#FF9933
+Hospital Pharmacy,Healthcare & Nursing,#FF9933
+Medical Records,Healthcare & Nursing,#FF9933
+Employee Health Benefit Plans,Healthcare & Nursing,#FF9933
+Substance-abuse Treatment,Healthcare & Nursing,#FF9933
+Drug Discovery,Healthcare & Nursing,#FF9933
+Nursing Education,Healthcare & Nursing,#FF9933
+Alternative Complementary Medicine,Healthcare & Nursing,#FF9933
+BioEthics,Healthcare & Nursing,#FF9933
+Gerontology,Healthcare & Nursing,#FF9933
+Dental Education,Healthcare & Nursing,#FF9933
+Biomaterials,Healthcare & Nursing,#FF9933
+Biomechanics,Healthcare & Nursing,#FF9933
+Prosthetic Dentistry,Healthcare & Nursing,#FF9933
+Orthodontics,Healthcare & Nursing,#FF9933
+Dental Research,Healthcare & Nursing,#FF9933
+Public Health Service,Healthcare & Nursing,#FF9933
+Periodontology,Healthcare & Nursing,#FF9933
+Mental Health Nursing,Healthcare & Nursing,#FF9933
+Plastic Surgery,Healthcare & Nursing,#FF9933
+Nursing Administration,Healthcare & Nursing,#FF9933
+Spine,Healthcare & Nursing,#FF9933
+Audiology,Healthcare & Nursing,#FF9933
+General Practice,Healthcare & Nursing,#FF9933
+Arthroscopy,Healthcare & Nursing,#FF9933
+Medical Insurance,Healthcare & Nursing,#FF9933
+Applied Physiology; Muscle,Healthcare & Nursing,#FF9933
+Public Hospitals,Healthcare & Nursing,#FF9933
+Behavioral Research Therapy,Healthcare & Nursing,#FF9933
+Hospice Care,Healthcare & Nursing,#FF9933
+AIDS Treatment,Healthcare & Nursing,#FF9933
+Region & Medical Ethics,Healthcare & Nursing,#FF9933
+Medical Screening & Epidemiology,Healthcare & Nursing,#FF9933
+Pain,Healthcare & Nursing,#FF9933
+Mental Health Assessment,Healthcare & Nursing,#FF9933
+Obesity,Healthcare & Nursing,#FF9933
+Forensic Medicine,Healthcare & Nursing,#FF9933
+Psychiatric Services,Healthcare & Nursing,#FF9933
+Addictive Behavior,Healthcare & Nursing,#FF9933
+Psychiatric Nursing,Healthcare & Nursing,#FF9933
+Rural Health Care,Healthcare & Nursing,#FF9933
+Molecular Medicine,Healthcare & Nursing,#FF9933
+Trauma,Healthcare & Nursing,#FF9933
+Clinical Psychiatry,Healthcare & Nursing,#FF9933
+Geriatric Nursing,Healthcare & Nursing,#FF9933
+Medical Education,Healthcare & Nursing,#FF9933
+Hospital Management,Healthcare & Nursing,#FF9933
+Oral Surgery,Healthcare & Nursing,#FF9933
+Midwifery,Healthcare & Nursing,#FF9933
+Emergency Medicine,Healthcare & Nursing,#FF9933
+Preventive Medicine,Healthcare & Nursing,#FF9933
+Pharmaco Economics,Healthcare & Nursing,#FF9933
+Medical Practice,Healthcare & Nursing,#FF9933
+Otolyngology; Head Neck,Healthcare & Nursing,#FF9933
+Medical Libraries,Healthcare & Nursing,#FF9933
+Artificial Organs,Healthcare & Nursing,#FF9933
+Physical Therapy; Orthopedic,Healthcare & Nursing,#FF9933
+Public Health,Healthcare & Nursing,#FF9933
+Optometry,Healthcare & Nursing,#FF9933
+Perception Motor Skills,Healthcare & Nursing,#FF9933
+Nursing Theory,Healthcare & Nursing,#FF9933
+Laser Surgery,Healthcare & Nursing,#FF9933
+Plant Physiology,Environmental & Life Sciences,#CCFF00
+Marine Biology,Environmental & Life Sciences,#CCFF00
+Zoology,Environmental & Life Sciences,#CCFF00
+Environmental Contamination,Environmental & Life Sciences,#CCFF00
+Biological Conservation,Environmental & Life Sciences,#CCFF00
+Pest Management Science,Environmental & Life Sciences,#CCFF00
+Comparative Animal Physiology,Environmental & Life Sciences,#CCFF00
+Botany,Environmental & Life Sciences,#CCFF00
+Freshwater Biology,Environmental & Life Sciences,#CCFF00
+Ecology,Environmental & Life Sciences,#CCFF00
+Aquaculture,Environmental & Life Sciences,#CCFF00
+Molecular Biological Evolution,Environmental & Life Sciences,#CCFF00
+Forest Science,Environmental & Life Sciences,#CCFF00
+Molecular Biochemical Parasitology,Environmental & Life Sciences,#CCFF00
+Horticulture,Environmental & Life Sciences,#CCFF00
+Crop Science,Environmental & Life Sciences,#CCFF00
+Soil Analysis,Environmental & Life Sciences,#CCFF00
+Human Evolution,Environmental & Life Sciences,#CCFF00
+Entomology,Environmental & Life Sciences,#CCFF00
+Plant Ecology,Environmental & Life Sciences,#CCFF00
+Parasitology,Environmental & Life Sciences,#CCFF00
+Fish Research,Environmental & Life Sciences,#CCFF00
+Genetics,Environmental & Life Sciences,#CCFF00
+Wildlife Management,Environmental & Life Sciences,#CCFF00
+Environmental Microbiology,Environmental & Life Sciences,#CCFF00
+Applied Genetics,Environmental & Life Sciences,#CCFF00
+Plant Disease,Environmental & Life Sciences,#CCFF00
+Sociobiology,Environmental & Life Sciences,#CCFF00
+Ecological Modeling,Environmental & Life Sciences,#CCFF00
+Mycology,Environmental & Life Sciences,#CCFF00
+Molecular Ecology,Environmental & Life Sciences,#CCFF00
+Weed Management,Environmental & Life Sciences,#CCFF00
+Insect Physiology,Environmental & Life Sciences,#CCFF00
+Wildlife Research,Environmental & Life Sciences,#CCFF00
+Fish Biology,Environmental & Life Sciences,#CCFF00
+Marine Pollution,Environmental & Life Sciences,#CCFF00
+Rangeland Ecology,Environmental & Life Sciences,#CCFF00
+Mammals,Environmental & Life Sciences,#CCFF00
+Aquatic Disease,Environmental & Life Sciences,#CCFF00
+Insects,Environmental & Life Sciences,#CCFF00
+Australian Ecology,Environmental & Life Sciences,#CCFF00
+Crustaceans,Environmental & Life Sciences,#CCFF00
+Wetlands,Environmental & Life Sciences,#CCFF00
+Material Science,Engineering & Materials Science,#00F5FF
+Transportation Research,Engineering & Materials Science,#00F5FF
+Chemical Engineering,Engineering & Materials Science,#00F5FF
+Nuclear Engineering,Engineering & Materials Science,#00F5FF
+Earthquake Engineering,Engineering & Materials Science,#00F5FF
+Pulp & Paper,Engineering & Materials Science,#00F5FF
+Aeronautics & Astronautics,Engineering & Materials Science,#00F5FF
+Gas Turbines,Engineering & Materials Science,#00F5FF
+Ceramics,Engineering & Materials Science,#00F5FF
+Military Aviation,Engineering & Materials Science,#00F5FF
+Automotive Engineering,Engineering & Materials Science,#00F5FF
+Alloys,Engineering & Materials Science,#00F5FF
+Mechanical Design Engineering,Engineering & Materials Science,#00F5FF
+Energy Fuel,Engineering & Materials Science,#00F5FF
+Soil Quality,Engineering & Materials Science,#00F5FF
+Heat Transfer,Engineering & Materials Science,#00F5FF
+Cement & Concrete,Engineering & Materials Science,#00F5FF
+Corrosion,Engineering & Materials Science,#00F5FF
+Petroleum Engineering,Engineering & Materials Science,#00F5FF
+Mechanics of Solids & Structures,Engineering & Materials Science,#00F5FF
+Wood,Engineering & Materials Science,#00F5FF
+Composites,Engineering & Materials Science,#00F5FF
+Agricultural Engineering,Engineering & Materials Science,#00F5FF
+Wool,Engineering & Materials Science,#00F5FF
+Fluid Mechanics,Engineering & Materials Science,#00F5FF
+Filtration Membrane,Engineering & Materials Science,#00F5FF
+Machine Tools,Engineering & Materials Science,#00F5FF
+Mining,Engineering & Materials Science,#00F5FF
+Soil Science,Engineering & Materials Science,#00F5FF
+Geotechnical Engineering,Engineering & Materials Science,#00F5FF
+Fluid Engineering,Engineering & Materials Science,#00F5FF
+Water Quality & Resource Management,Engineering & Materials Science,#00F5FF
+Sound & Vibration,Engineering & Materials Science,#00F5FF
+Ore Processing,Engineering & Materials Science,#00F5FF
+Numerical Methods in Engineering,Engineering & Materials Science,#00F5FF
+Electrochemistry,Engineering & Materials Science,#00F5FF
+Oil & Natural Gas,Engineering & Materials Science,#00F5FF
+Fluid Phase Equilibrium,Engineering & Materials Science,#00F5FF
+Water Treatment,Engineering & Materials Science,#00F5FF
+Vehicle System Design,Engineering & Materials Science,#00F5FF
+Environmental Protection,Engineering & Materials Science,#00F5FF
+Environmental Pollution,Engineering & Materials Science,#00F5FF
+Safety Management,Engineering & Materials Science,#00F5FF
+Pulp Paper Science,Engineering & Materials Science,#00F5FF
+Textiles,Engineering & Materials Science,#00F5FF
+Hydrology Soil Contamination,Engineering & Materials Science,#00F5FF
+Water Policy,Engineering & Materials Science,#00F5FF
+Printing,Engineering & Materials Science,#00F5FF
+Industrial Chemistry,Engineering & Materials Science,#00F5FF
+Ocean Coastal Management,Engineering & Materials Science,#00F5FF
+Water Utilities,Engineering & Materials Science,#00F5FF
+Naval Architecture,Engineering & Materials Science,#00F5FF
+Oceanographic Instrumentation,Engineering & Materials Science,#00F5FF
+Materials Processing,Engineering & Materials Science,#00F5FF
+Metallurgy,Engineering & Materials Science,#00F5FF
+Aerospace,Engineering & Materials Science,#00F5FF
+Solar & Wind Power,Engineering & Materials Science,#00F5FF
+Ocean Engineering,Engineering & Materials Science,#00F5FF
+Dyes & Pigments,Engineering & Materials Science,#00F5FF
+Water Waste,Engineering & Materials Science,#00F5FF
+Construction,Engineering & Materials Science,#00F5FF
+Dams & Tunnels,Engineering & Materials Science,#00F5FF
+Electrochemical Development,Engineering & Materials Science,#00F5FF
+Digital Printing,Engineering & Materials Science,#00F5FF
+Applied Geophysics,Engineering & Materials Science,#00F5FF
+Sensors & Actuators,Engineering & Materials Science,#00F5FF
+Combustion,Engineering & Materials Science,#00F5FF
+Fractures & Fatigue,Engineering & Materials Science,#00F5FF
+Wood Components,Engineering & Materials Science,#00F5FF
+Friction Lubrication & Wear,Engineering & Materials Science,#00F5FF
+Acoustics,Engineering & Materials Science,#00F5FF
+Waste Management,Engineering & Materials Science,#00F5FF
+Defects & Diffusion in Materials,Engineering & Materials Science,#00F5FF
+Welding,Engineering & Materials Science,#00F5FF
+Textile Art,Engineering & Materials Science,#00F5FF
+Bulk Solid Handling,Engineering & Materials Science,#00F5FF
+"Chemical, Mechanical, & Civil Engineering",Engineering & Materials Science,#00F5FF
+Law,Social Sciences & Economics,#F4FF00
+Finance,Social Sciences & Economics,#F4FF00
+Decision Support Systems,Social Sciences & Economics,#F4FF00
+Business Ethics,Social Sciences & Economics,#F4FF00
+Operations Research,Social Sciences & Economics,#F4FF00
+Economics,Social Sciences & Economics,#F4FF00
+Statistics,Social Sciences & Economics,#F4FF00
+Applied Economics,Social Sciences & Economics,#F4FF00
+BioStatistics,Social Sciences & Economics,#F4FF00
+Research Policy; Technology Management,Social Sciences & Economics,#F4FF00
+Construction & Project Management,Social Sciences & Economics,#F4FF00
+Social Psychology,Social Sciences & Economics,#F4FF00
+Strategic Management,Social Sciences & Economics,#F4FF00
+Teacher Education; Evaluation,Social Sciences & Economics,#F4FF00
+Communication Research,Social Sciences & Economics,#F4FF00
+Language Learning,Social Sciences & Economics,#F4FF00
+Leadership & Organizational Behavior,Social Sciences & Economics,#F4FF00
+Computer-Aided Process Planning,Social Sciences & Economics,#F4FF00
+Political Science,Social Sciences & Economics,#F4FF00
+Political Geography,Social Sciences & Economics,#F4FF00
+Higher Education,Social Sciences & Economics,#F4FF00
+Urban Studies,Social Sciences & Economics,#F4FF00
+Symbolic Interaction,Social Sciences & Economics,#F4FF00
+Environmental Management,Social Sciences & Economics,#F4FF00
+Eating Disorders; Sex Roles,Social Sciences & Economics,#F4FF00
+Ethnic Migration,Social Sciences & Economics,#F4FF00
+Ethnology,Social Sciences & Economics,#F4FF00
+International Development,Social Sciences & Economics,#F4FF00
+Political Studies,Social Sciences & Economics,#F4FF00
+Vocational Counseling,Social Sciences & Economics,#F4FF00
+International Conflict,Social Sciences & Economics,#F4FF00
+Agricultural Economics,Social Sciences & Economics,#F4FF00
+Social Work,Social Sciences & Economics,#F4FF00
+Third World Political Economics,Social Sciences & Economics,#F4FF00
+Sociology,Social Sciences & Economics,#F4FF00
+Science Education,Social Sciences & Economics,#F4FF00
+Child Development,Social Sciences & Economics,#F4FF00
+Public Administration,Social Sciences & Economics,#F4FF00
+Criminology,Social Sciences & Economics,#F4FF00
+Personality,Social Sciences & Economics,#F4FF00
+Child Abuse,Social Sciences & Economics,#F4FF00
+Financial Accounting,Social Sciences & Economics,#F4FF00
+Developmental Economics,Social Sciences & Economics,#F4FF00
+International Economics,Social Sciences & Economics,#F4FF00
+Foreign Policy,Social Sciences & Economics,#F4FF00
+School Psychology,Social Sciences & Economics,#F4FF00
+Environmental Law,Social Sciences & Economics,#F4FF00
+Human Resource Management,Social Sciences & Economics,#F4FF00
+Marital & Family Therapy,Social Sciences & Economics,#F4FF00
+Econometrics,Social Sciences & Economics,#F4FF00
+Educational Psychology,Social Sciences & Economics,#F4FF00
+Public Policy,Social Sciences & Economics,#F4FF00
+Environmental Policy,Social Sciences & Economics,#F4FF00
+Regional Studies,Social Sciences & Economics,#F4FF00
+Engineering Education,Social Sciences & Economics,#F4FF00
+Pyschiatric & Behavioral Genetics,Social Sciences & Economics,#F4FF00
+Psychosomatic Medicine,Social Sciences & Economics,#F4FF00
+Operations Management,Social Sciences & Economics,#F4FF00
+GeoPolitics,Social Sciences & Economics,#F4FF00
+Education,Social Sciences & Economics,#F4FF00
+Pragmatics & Discourse,Social Sciences & Economics,#F4FF00
+Human Rights,Social Sciences & Economics,#F4FF00
+Social Economics,Social Sciences & Economics,#F4FF00
+Rural Studies,Social Sciences & Economics,#F4FF00
+Reliability Engineering,Social Sciences & Economics,#F4FF00
+Tourism,Social Sciences & Economics,#F4FF00
+Education Psychological Measures,Social Sciences & Economics,#F4FF00
+Marketing,Social Sciences & Economics,#F4FF00
+World Trade; Law,Social Sciences & Economics,#F4FF00
+Seismology,Earth Sciences,#FF0055
+Oceanography,Earth Sciences,#FF0055
+Paleobiology,Earth Sciences,#FF0055
+Remote Sensing,Earth Sciences,#FF0055
+Atmospheric Science,Earth Sciences,#FF0055
+Geomorphology,Earth Sciences,#FF0055
+Geology & Tectonics,Earth Sciences,#FF0055
+GeoChemistry,Earth Sciences,#FF0055
+Quaternary Research,Earth Sciences,#FF0055
+Atmospheric GeoPhysics,Earth Sciences,#FF0055
+Air Quality,Earth Sciences,#FF0055
+Climatology,Earth Sciences,#FF0055
+Geology (International),Earth Sciences,#FF0055
+Sedimentary Geology,Earth Sciences,#FF0055
+Geodesy,Earth Sciences,#FF0055
+Water Resource,Earth Sciences,#FF0055
+Mineralogy,Earth Sciences,#FF0055
+Paleogeography,Earth Sciences,#FF0055
+Archeological Science,Earth Sciences,#FF0055
+Glaciology,Earth Sciences,#FF0055
+Geographic Information Science,Earth Sciences,#FF0055
+GIS (non English),Earth Sciences,#FF0055
+Classics,Arts & Humanities,#FFEF00
+Philosophy Psychology,Arts & Humanities,#FFEF00
+Music & Theatre,Arts & Humanities,#FFEF00
+American History,Arts & Humanities,#FFEF00
+Science History,Arts & Humanities,#FFEF00
+Poetry,Arts & Humanities,#FFEF00
+English Literature,Arts & Humanities,#FFEF00
+Modern Language,Arts & Humanities,#FFEF00
+Linguistics,Arts & Humanities,#FFEF00
+Hispanic Studies,Arts & Humanities,#FFEF00
+Art History,Arts & Humanities,#FFEF00
+Biblical Literature,Arts & Humanities,#FFEF00
+Contemporary Philosophy,Arts & Humanities,#FFEF00
+Literary Criticism,Arts & Humanities,#FFEF00
+German Studies,Arts & Humanities,#FFEF00
+Medieval History,Arts & Humanities,#FFEF00
+Philosophy of Education,Arts & Humanities,#FFEF00
+Asian Studies,Arts & Humanities,#FFEF00
+Ethics,Arts & Humanities,#FFEF00
+Critical Studies,Arts & Humanities,#FFEF00
+Semiotics,Arts & Humanities,#FFEF00
+Cross Disciplinary Studies,Arts & Humanities,#FFEF00
+Social History,Arts & Humanities,#FFEF00
+Opera,Arts & Humanities,#FFEF00
+Socio-Cultural Anthropology,Arts & Humanities,#FFEF00
+Italian Studies,Arts & Humanities,#FFEF00

@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#category/medical-sciences",
+      "color": {
+        "a": 1,
+        "rgb": 16716151
+      }
+    },
+    {
+      "query": "tag:#category/computer-science-and-engineering",
+      "color": {
+        "a": 1,
+        "rgb": 13369599
+      }
+    },
+    {
+      "query": "tag:#category/biotechnology",
+      "color": {
+        "a": 1,
+        "rgb": 3800852
+      }
+    },
+    {
+      "query": "tag:#category/neuroscience",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#category/microbiology-and-immunology",
+      "color": {
+        "a": 1,
+        "rgb": 16724273
+      }
+    },
+    {
+      "query": "tag:#category/chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "tag:#category/physics-and-mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "tag:#category/healthcare-and-nursing",
+      "color": {
+        "a": 1,
+        "rgb": 16750899
+      }
+    },
+    {
+      "query": "tag:#category/environmental-and-life-sciences",
+      "color": {
+        "a": 1,
+        "rgb": 13434624
+      }
+    },
+    {
+      "query": "tag:#category/engineering-and-materials-science",
+      "color": {
+        "a": 1,
+        "rgb": 62975
+      }
+    },
+    {
+      "query": "tag:#category/social-sciences-and-economics",
+      "color": {
+        "a": 1,
+        "rgb": 16056064
+      }
+    },
+    {
+      "query": "tag:#category/earth-sciences",
+      "color": {
+        "a": 1,
+        "rgb": 16711765
+      }
+    },
+    {
+      "query": "tag:#category/arts-and-humanities",
+      "color": {
+        "a": 1,
+        "rgb": 16772864
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.25,
+  "close": false
+}

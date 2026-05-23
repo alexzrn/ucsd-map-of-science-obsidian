@@ -1,0 +1,555 @@
+subd_id,subd_name,visual_category,visual_color,tag
+1,Clinical Cancer Research,Medical Sciences,#FF1177,category/medical-sciences
+2,Circulation,Medical Sciences,#FF1177,category/medical-sciences
+3,Data Mining,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+4,Protein Science,Biotechnology,#39FF14,category/biotechnology
+5,Signal Processing,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+6,Neuroscience; Molecular & Cellular,Neuroscience,#FFFF00,category/neuroscience
+7,Anesthetics & Analgesics,Medical Sciences,#FF1177,category/medical-sciences
+8,Urology,Medical Sciences,#FF1177,category/medical-sciences
+9,Immunology,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+10,Macromolecules & Polymers,Chemistry,#00FFFF,category/chemistry
+11,Affective Disorders,Neuroscience,#FFFF00,category/neuroscience
+12,Oncology,Medical Sciences,#FF1177,category/medical-sciences
+13,Surface Science,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+14,Nonlinear Analysis,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+15,Hospital Financial Management,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+16,Rheumatology,Medical Sciences,#FF1177,category/medical-sciences
+17,Occupational Health,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+18,Organic Chemistry,Chemistry,#00FFFF,category/chemistry
+19,Leukemia,Medical Sciences,#FF1177,category/medical-sciences
+20,Virology,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+21,Plant Physiology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+22,Allergy & Clinical Immunology,Medical Sciences,#FF1177,category/medical-sciences
+23,Material Science,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+24,Dermatology,Medical Sciences,#FF1177,category/medical-sciences
+25,Kidney,Medical Sciences,#FF1177,category/medical-sciences
+26,Pharmacology Science,Medical Sciences,#FF1177,category/medical-sciences
+27,Law,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+28,Medical Imaging,Neuroscience,#FFFF00,category/neuroscience
+29,Bacteriology,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+30,Marine Biology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+31,Developmental Biology,Medical Sciences,#FF1177,category/medical-sciences
+32,Digestion,Medical Sciences,#FF1177,category/medical-sciences
+33,Toxicology Applied Pharmacology,Medical Sciences,#FF1177,category/medical-sciences
+34,Transportation Research,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+35,Inorganic Chemistry,Chemistry,#00FFFF,category/chemistry
+36,Chemical Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+37,Pharmaceutical Research,Chemistry,#00FFFF,category/chemistry
+38,Semiconducting Materials,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+39,Diabetes Care,Medical Sciences,#FF1177,category/medical-sciences
+40,Clinical Neurophysiology,Neuroscience,#FFFF00,category/neuroscience
+41,Ophthalmology,Medical Sciences,#FF1177,category/medical-sciences
+42,Nutrition,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+43,Finance,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+44,Neurosurgery,Neuroscience,#FFFF00,category/neuroscience
+45,Fertility,Medical Sciences,#FF1177,category/medical-sciences
+46,Applied Optics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+47,Nuclear Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+48,Molecular Cell Biology,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+49,Food Chemistry,Chemistry,#00FFFF,category/chemistry
+50,Obstetrics,Medical Sciences,#FF1177,category/medical-sciences
+51,Chest & Respiratory,Medical Sciences,#FF1177,category/medical-sciences
+52,Earthquake Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+53,Zoology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+54,Pharmaceutical Design,Chemistry,#00FFFF,category/chemistry
+55,AntiMicrobial Agents,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+56,Systems Software,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+57,Decision Support Systems,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+58,Business Ethics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+59,Vascular Surgery,Medical Sciences,#FF1177,category/medical-sciences
+60,Pulp & Paper,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+61,Seismology,Earth Sciences,#FF0055,category/earth-sciences
+62,Bone Joint Surgery,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+63,Neurology,Neuroscience,#FFFF00,category/neuroscience
+64,Algebra,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+65,Antenna,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+66,Circuit Systems,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+67,Nursing Specialists,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+68,Retinal Surgery,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+69,Psychopharmacology,Neuroscience,#FFFF00,category/neuroscience
+70,Aeronautics & Astronautics,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+71,Psychoanalysis,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+72,Oceanography,Earth Sciences,#FF0055,category/earth-sciences
+73,Sports Medicine,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+74,Operations Research,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+75,Chromatography; Electrophoresis,Chemistry,#00FFFF,category/chemistry
+76,Pediatrics,Medical Sciences,#FF1177,category/medical-sciences
+77,Cardiovascular,Medical Sciences,#FF1177,category/medical-sciences
+78,Paleobiology,Earth Sciences,#FF0055,category/earth-sciences
+79,Economics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+80,Hypertension,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+81,Human Molecular Genetics,Medical Sciences,#FF1177,category/medical-sciences
+82,Clinical Endocrinology,Medical Sciences,#FF1177,category/medical-sciences
+83,Dietetics,Medical Sciences,#FF1177,category/medical-sciences
+84,Clinical Microbiology,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+85,Hospital Pharmacy,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+86,Gas Turbines,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+87,Remote Sensing,Earth Sciences,#FF0055,category/earth-sciences
+88,Computational Chemistry,Chemistry,#00FFFF,category/chemistry
+89,Surgery,Medical Sciences,#FF1177,category/medical-sciences
+90,Ceramics,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+91,AIDS Research,Medical Sciences,#FF1177,category/medical-sciences
+92,Military Aviation,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+93,Medical Records,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+94,Statistics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+95,Applied Economics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+96,Automatic Control,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+97,Atmospheric Science,Earth Sciences,#FF0055,category/earth-sciences
+98,Automotive Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+99,BioStatistics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+100,Employee Health Benefit Plans,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+101,Transplantation,Medical Sciences,#FF1177,category/medical-sciences
+102,Alloys,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+103,Astronomy & Astrophysics,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+104,Substance-abuse Treatment,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+105,Research Policy; Technology Management,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+106,Drug Discovery,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+107,Animal Science,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+108,Chaos Fractals & Complexity,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+109,Environmental Contamination,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+110,Otolaryngology; Laryngoscope,Neuroscience,#FFFF00,category/neuroscience
+111,Mechanical Design Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+112,Classics,Arts & Humanities,#FFEF00,category/arts-and-humanities
+113,Biological Conservation,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+114,Thoracic Surgery,Medical Sciences,#FF1177,category/medical-sciences
+115,Phytochemistry,Chemistry,#00FFFF,category/chemistry
+116,Tropical Medicine,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+117,Food Protection,Biotechnology,#39FF14,category/biotechnology
+118,Broadband Communication,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+119,Energy Fuel,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+120,Soil Quality,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+121,Integrated Circuit Design,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+122,Philosophy Psychology,Arts & Humanities,#FFEF00,category/arts-and-humanities
+123,Construction & Project Management,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+124,Social Psychology,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+125,High Energy Physics,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+126,Strategic Management,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+127,Genomics & Nucleic Acids,Biotechnology,#39FF14,category/biotechnology
+128,Heat Transfer,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+129,Cement & Concrete,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+130,Pathology,Medical Sciences,#FF1177,category/medical-sciences
+131,Pest Management Science,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+132,Corrosion,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+133,Veterinary Science,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+134,Teacher Education; Evaluation,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+135,Stem Cells,Medical Sciences,#FF1177,category/medical-sciences
+136,Image Processing,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+137,Neural Networks,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+138,Nursing Education,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+139,Intensive Care,Medical Sciences,#FF1177,category/medical-sciences
+140,Alternative Complementary Medicine,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+141,Petroleum Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+142,Music & Theatre,Arts & Humanities,#FFEF00,category/arts-and-humanities
+143,Memory & Cognition,Neuroscience,#FFFF00,category/neuroscience
+144,Vision,Neuroscience,#FFFF00,category/neuroscience
+145,Communication Research,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+146,BioInformatics,Biotechnology,#39FF14,category/biotechnology
+147,Mechanics of Solids & Structures,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+148,Pharmacy,Medical Sciences,#FF1177,category/medical-sciences
+149,Geomorphology,Earth Sciences,#FF0055,category/earth-sciences
+150,Psychosis; Schizophrenia,Neuroscience,#FFFF00,category/neuroscience
+151,BioEthics,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+152,Parallel Computing,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+153,Power Distribution,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+154,Gerontology,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+155,Wood,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+156,Discrete Applied Mathematics,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+157,Geology & Tectonics,Earth Sciences,#FF0055,category/earth-sciences
+158,GeoChemistry,Earth Sciences,#FF0055,category/earth-sciences
+159,Mobile Networks,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+160,Artificial Intelligence,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+161,Electro Analytical Chemistry,Chemistry,#00FFFF,category/chemistry
+162,Dental Education,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+163,Enzyme Microbiological Techniques,Biotechnology,#39FF14,category/biotechnology
+164,Library Science; Information Retrieval,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+165,Biomaterials,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+166,Quaternary Research,Earth Sciences,#FF0055,category/earth-sciences
+167,Endoscopic Surgery,Medical Sciences,#FF1177,category/medical-sciences
+168,Composites,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+169,Language Learning,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+170,American History,Arts & Humanities,#FFEF00,category/arts-and-humanities
+171,Leadership & Organizational Behavior,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+172,Agricultural Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+173,Computer-Aided Process Planning,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+174,Geriatrics,Neuroscience,#FFFF00,category/neuroscience
+175,Solid State Electronics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+176,Optics & Lasers,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+177,Wool,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+178,Biomechanics,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+179,Molecular Physics,Chemistry,#00FFFF,category/chemistry
+180,Comparative Animal Physiology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+181,Political Science,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+182,Science History,Arts & Humanities,#FFEF00,category/arts-and-humanities
+183,Poetry,Arts & Humanities,#FFEF00,category/arts-and-humanities
+184,Nuclear Medicine,Medical Sciences,#FF1177,category/medical-sciences
+185,Nanotechnology,Chemistry,#00FFFF,category/chemistry
+186,Speech Recognition,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+187,Fluid Mechanics,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+188,Computer Graphics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+189,Filtration Membrane,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+190,Clinical Infectious Disease,Medical Sciences,#FF1177,category/medical-sciences
+191,Prosthetic Dentistry,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+192,Orthodontics,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+193,Robotic Systems,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+194,Dental Research,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+195,Atomic Spectrometry,Chemistry,#00FFFF,category/chemistry
+196,Botany,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+197,Public Health Service,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+198,Political Geography,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+199,Catalysis,Chemistry,#00FFFF,category/chemistry
+200,Radiation Protection,Medical Sciences,#FF1177,category/medical-sciences
+201,Machine Tools,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+202,Veterinary Medicine,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+203,Periodontology,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+204,Birth Defects,Medical Sciences,#FF1177,category/medical-sciences
+205,Thrombosis,Medical Sciences,#FF1177,category/medical-sciences
+206,Freshwater Biology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+207,Mental Health Nursing,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+208,Artificial Evolution,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+209,English Literature,Arts & Humanities,#FFEF00,category/arts-and-humanities
+210,Plastic Surgery,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+211,Nursing Administration,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+212,Higher Education,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+213,Ecology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+214,Modern Language,Arts & Humanities,#FFEF00,category/arts-and-humanities
+215,Neurophysiology & Neuroscience,Neuroscience,#FFFF00,category/neuroscience
+216,Mining,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+217,Aquaculture,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+218,Molecular Biological Evolution,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+219,Photonics,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+220,Urban Studies,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+221,Functional Analysis,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+222,Linguistics,Arts & Humanities,#FFEF00,category/arts-and-humanities
+223,Photo-Optics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+224,Spine,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+225,Robotics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+226,Audiology,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+227,Soil Science,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+228,Simulation,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+229,Nuclear Instrumentation,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+230,Hispanic Studies,Arts & Humanities,#FFEF00,category/arts-and-humanities
+231,Forest Science,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+232,Plasma Physics,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+233,Proteomics,Biotechnology,#39FF14,category/biotechnology
+234,Symbolic Interaction,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+235,Child & Adolescent Psychiatry,Neuroscience,#FFFF00,category/neuroscience
+236,General Practice,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+237,Environmental Management,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+238,Diabetes Metabolism,Medical Sciences,#FF1177,category/medical-sciences
+239,Geotechnical Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+240,Instrumentation,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+241,Clinical Chemistry,Medical Sciences,#FF1177,category/medical-sciences
+242,Fluid Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+243,Arthroscopy,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+244,Eating Disorders; Sex Roles,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+245,Water Quality & Resource Management,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+246,Ethnic Migration,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+247,Geriatric Psychiatry,Neuroscience,#FFFF00,category/neuroscience
+248,Sound & Vibration,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+249,Ore Processing,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+250,Ethnology,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+251,Prenatal Diagnostics,Medical Sciences,#FF1177,category/medical-sciences
+252,Cancer (translated),Medical Sciences,#FF1177,category/medical-sciences
+253,Dielectrics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+254,Atmospheric GeoPhysics,Earth Sciences,#FF0055,category/earth-sciences
+255,Flavors & Fragrance,Chemistry,#00FFFF,category/chemistry
+256,Numerical Methods in Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+257,EthnoPharmacology,Chemistry,#00FFFF,category/chemistry
+258,Electrocardiography,Medical Sciences,#FF1177,category/medical-sciences
+259,International Development,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+260,Electrochemistry,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+261,Political Studies,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+262,Molecular Endocrinology,Medical Sciences,#FF1177,category/medical-sciences
+263,Surface Coating Technology,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+264,Molecular Biochemical Parasitology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+265,Vocational Counseling,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+266,Oil & Natural Gas,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+267,International Conflict,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+268,Art History,Arts & Humanities,#FFEF00,category/arts-and-humanities
+269,Applied Catalysis,Chemistry,#00FFFF,category/chemistry
+270,Agricultural Economics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+271,Social Work,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+272,Medical Insurance,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+273,Fluid Phase Equilibrium,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+274,Biotechnology Trends,Biotechnology,#39FF14,category/biotechnology
+275,Air Quality,Earth Sciences,#FF0055,category/earth-sciences
+276,Search Engines; Web Crawling,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+277,Colloid,Chemistry,#00FFFF,category/chemistry
+278,Applied Physiology; Muscle,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+279,Biblical Literature,Arts & Humanities,#FFEF00,category/arts-and-humanities
+280,Fault Tolerant Computing,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+281,Third World Political Economics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+282,Public Hospitals,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+283,Sociology,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+284,Horticulture,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+285,Bone & Osteoporosis,Medical Sciences,#FF1177,category/medical-sciences
+286,Radiation Therapy,Medical Sciences,#FF1177,category/medical-sciences
+287,Water Treatment,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+288,Spyware; Malware,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+289,Behavioral Research Therapy,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+290,Science Education,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+291,Design & Analysis of Algorithms,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+292,Hospice Care,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+293,Climatology,Earth Sciences,#FF0055,category/earth-sciences
+294,Crop Science,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+295,Fuzzy Sets,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+296,Vehicle System Design,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+297,Transfusion,Medical Sciences,#FF1177,category/medical-sciences
+298,AIDS Treatment,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+299,Wireless Communication,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+300,Atherosclerosis,Medical Sciences,#FF1177,category/medical-sciences
+301,Region & Medical Ethics,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+302,Speech Language & Hearing,Neuroscience,#FFFF00,category/neuroscience
+303,Thoracic & Respiratory,Medical Sciences,#FF1177,category/medical-sciences
+304,Veterinary Microbiology,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+305,Environmental Protection,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+306,Computer Systems Design,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+307,Environmental Pollution,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+308,Electrical Networks,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+309,Endoscopy,Medical Sciences,#FF1177,category/medical-sciences
+310,Chemistry & Material Science,Chemistry,#00FFFF,category/chemistry
+311,Medical Screening & Epidemiology,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+312,Child Development,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+313,Pain,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+314,Public Administration,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+315,Soil Analysis,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+316,Safety Management,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+317,Pattern Recognition,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+318,Mental Health Assessment,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+319,Clinical Medicine (translated),Medical Sciences,#FF1177,category/medical-sciences
+320,Mutation; DNA Repair,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+321,Human Evolution,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+322,Space Research,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+323,Entomology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+324,Epilepsy,Neuroscience,#FFFF00,category/neuroscience
+325,Plant Ecology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+326,Computer Aided Molecular Design,Chemistry,#00FFFF,category/chemistry
+327,Criminology,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+328,Forensic Psychiatry,Neuroscience,#FFFF00,category/neuroscience
+329,Personality,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+330,Test Equipment,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+331,Logic,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+332,Pulp Paper Science,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+333,Textiles,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+334,Contemporary Philosophy,Arts & Humanities,#FFEF00,category/arts-and-humanities
+335,Hydrology Soil Contamination,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+336,Child Abuse,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+337,Mathematics Research,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+338,Geology (International),Earth Sciences,#FF0055,category/earth-sciences
+339,Environmental Chemistry,Chemistry,#00FFFF,category/chemistry
+340,Parasitology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+341,Dairy Science,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+342,Water Policy,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+343,Fish Research,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+344,Printing,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+345,Genetics,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+346,Industrial Chemistry,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+347,Obesity,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+348,Literary Criticism,Arts & Humanities,#FFEF00,category/arts-and-humanities
+349,Hepatology,Medical Sciences,#FF1177,category/medical-sciences
+350,Physical Therapy; Brain Injury,Neuroscience,#FFFF00,category/neuroscience
+351,Computational Math,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+352,World Health Organization,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+353,Geophysical Science,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+354,Forensic Medicine,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+355,Psychiatric Services,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+356,Software Design and Development,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+357,Wildlife Management,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+358,Ocean Coastal Management,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+359,Database Design & Management,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+360,Financial Accounting,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+361,Microbiology Biotechnology,Biotechnology,#39FF14,category/biotechnology
+362,Water Utilities,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+363,Sedimentary Geology,Earth Sciences,#FF0055,category/earth-sciences
+364,Geodesy,Earth Sciences,#FF0055,category/earth-sciences
+365,Surfactants,Chemistry,#00FFFF,category/chemistry
+366,Eye,Medical Sciences,#FF1177,category/medical-sciences
+367,Addictive Behavior,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+368,Naval Architecture,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+369,Environmental Microbiology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+370,Electronic Imaging,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+371,Functional Programing,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+372,Applied Genetics,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+373,Plant Disease,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+374,Water Resource,Earth Sciences,#FF0055,category/earth-sciences
+375,Developmental Economics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+376,Nuclear Physics,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+377,International Economics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+378,Radiology,Medical Sciences,#FF1177,category/medical-sciences
+379,German Studies,Arts & Humanities,#FFEF00,category/arts-and-humanities
+380,Medieval History,Arts & Humanities,#FFEF00,category/arts-and-humanities
+381,Philosophy of Education,Arts & Humanities,#FFEF00,category/arts-and-humanities
+382,Oceanographic Instrumentation,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+383,Foreign Policy,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+384,Gut,Medical Sciences,#FF1177,category/medical-sciences
+385,Microwaves; Radio Frequencies,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+386,School Psychology,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+387,Vaccines,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+388,Environmental Law,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+389,Mass Spectrometry,Chemistry,#00FFFF,category/chemistry
+390,Psychiatric Nursing,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+391,Asian Studies,Arts & Humanities,#FFEF00,category/arts-and-humanities
+392,Optimization Theory,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+393,Mathematical Science (Russia),Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+394,Gene Therapy,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+395,Security; Cryptography,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+396,Materials Processing,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+397,Rural Health Care,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+398,Power Systems,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+399,Surgical Oncology,Medical Sciences,#FF1177,category/medical-sciences
+400,Chip Design & Manufacturing,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+401,Sociobiology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+402,Molecular Medicine,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+403,Human Resource Management,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+404,Ecological Modeling,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+405,Clinical Rehabilitation,Medical Sciences,#FF1177,category/medical-sciences
+406,Metallurgy,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+407,Ethics,Arts & Humanities,#FFEF00,category/arts-and-humanities
+408,Marital & Family Therapy,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+409,Aerospace,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+410,Critical Studies,Arts & Humanities,#FFEF00,category/arts-and-humanities
+411,Econometrics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+412,Neuroscience Methods,Neuroscience,#FFFF00,category/neuroscience
+413,Mineralogy,Earth Sciences,#FF0055,category/earth-sciences
+414,Trauma,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+415,Thermal Analysis,Chemistry,#00FFFF,category/chemistry
+416,Solar & Wind Power,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+417,Ocean Engineering,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+418,Educational Psychology,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+419,Mycology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+420,Semiotics,Arts & Humanities,#FFEF00,category/arts-and-humanities
+421,Dyes & Pigments,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+422,Drug Safety,Medical Sciences,#FF1177,category/medical-sciences
+423,Molecular Ecology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+424,Cytogenetics & Genome Mapping,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+425,Clinical Psychiatry,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+426,Paleogeography,Earth Sciences,#FF0055,category/earth-sciences
+427,Water Waste,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+428,Computer Networks,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+429,Weed Management,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+430,User Interface Design,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+431,Public Policy,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+432,Liquid Crystals,Chemistry,#00FFFF,category/chemistry
+433,Control Systems,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+434,Environmental Policy,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+435,Topology,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+436,Construction,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+437,Dams & Tunnels,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+438,Regional Studies,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+439,Electrochemical Development,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+440,Digital Printing,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+441,Peptides,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+442,Applied Geophysics,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+443,Sexually Transmitted Diseases,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+444,Engineering Education,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+445,NeuroImmunology,Neuroscience,#FFFF00,category/neuroscience
+446,Machine Learning,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+447,Geriatric Nursing,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+448,Sensors & Actuators,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+449,Systematics & Evolutionary Microbiology,Biotechnology,#39FF14,category/biotechnology
+450,Medical Image Processing,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+451,Medical Education,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+452,Magnetic Resonance Imagery,Neuroscience,#FFFF00,category/neuroscience
+453,Hospital Management,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+454,Insect Physiology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+455,Power Transmission,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+456,Food Engineering,Biotechnology,#39FF14,category/biotechnology
+457,Oral Surgery,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+458,Computer Systems Theory,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+459,Combustion,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+460,Dermatological Surgery,Medical Sciences,#FF1177,category/medical-sciences
+461,Wildlife Research,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+462,Midwifery,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+463,Physics; Current Developments,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+464,Pyschiatric & Behavioral Genetics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+465,Fractures & Fatigue,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+466,Emergency Medicine,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+467,Cross Disciplinary Studies,Arts & Humanities,#FFEF00,category/arts-and-humanities
+468,Archeological Science,Earth Sciences,#FF0055,category/earth-sciences
+469,Preventive Medicine,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+470,Carbon,Chemistry,#00FFFF,category/chemistry
+471,Gynecology Oncology,Medical Sciences,#FF1177,category/medical-sciences
+472,Psychosomatic Medicine,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+473,Pharmaco Economics,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+474,Computer Modeling and Animation,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+475,Medical Practice,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+476,Cancer Statistics,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+477,Consciousness,Neuroscience,#FFFF00,category/neuroscience
+478,Otolyngology; Head Neck,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+479,Heart Failure; Catheters,Medical Sciences,#FF1177,category/medical-sciences
+480,Wood Components,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+481,Circuits,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+482,Friction Lubrication & Wear,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+483,Superconductor Science,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+484,Antennae; Mobile Radio,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+485,Headache,Neuroscience,#FFFF00,category/neuroscience
+486,Operations Management,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+487,Fish Biology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+488,Social History,Arts & Humanities,#FFEF00,category/arts-and-humanities
+489,Consumer Electronics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+490,Menopause,Medical Sciences,#FF1177,category/medical-sciences
+491,Chemistry (Russia),Chemistry,#00FFFF,category/chemistry
+492,GeoPolitics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+493,Glaciology,Earth Sciences,#FF0055,category/earth-sciences
+494,Medical Libraries,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+495,Opera,Arts & Humanities,#FFEF00,category/arts-and-humanities
+496,Education,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+497,Acoustics,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+498,Pragmatics & Discourse,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+499,Reproduction Veterinary,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+500,Crystallography,Chemistry,#00FFFF,category/chemistry
+501,Applied Math,Physics & Mathematics,#FF00FF,category/physics-and-mathematics
+502,Socio-Cultural Anthropology,Arts & Humanities,#FFEF00,category/arts-and-humanities
+503,Poultry Science,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+504,Artificial Organs,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+505,Physical Therapy; Orthopedic,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+506,Pulmonary,Medical Sciences,#FF1177,category/medical-sciences
+507,Waste Management,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+508,Marine Pollution,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+509,Toxins,Chemistry,#00FFFF,category/chemistry
+510,Hearing Research,Neuroscience,#FFFF00,category/neuroscience
+511,Human Rights,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+512,Lung Cancer,Medical Sciences,#FF1177,category/medical-sciences
+513,Social Economics,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+514,Carbohydrate Research,Chemistry,#00FFFF,category/chemistry
+515,Biotechnology Bioengineering,Biotechnology,#39FF14,category/biotechnology
+516,Rural Studies,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+517,Electronics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+518,Defects & Diffusion in Materials,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+519,Forensic Science,Neuroscience,#FFFF00,category/neuroscience
+520,Rangeland Ecology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+521,Welding,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+522,Reliability Engineering,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+523,Molecular Biology Methods,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
+524,Mammals,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+525,Impotence,Medical Sciences,#FF1177,category/medical-sciences
+526,Fuzzy Logic,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+527,Tourism,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+528,Aquatic Disease,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+529,Geographic Information Science,Earth Sciences,#FF0055,category/earth-sciences
+530,Hormone Research,Medical Sciences,#FF1177,category/medical-sciences
+531,Public Health,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+532,Sleep,Neuroscience,#FFFF00,category/neuroscience
+533,Neurotoxicology,Neuroscience,#FFFF00,category/neuroscience
+534,Pediatric Research,Medical Sciences,#FF1177,category/medical-sciences
+535,Education Psychological Measures,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+536,Marketing,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+537,Clinical Medicine (Romania),Medical Sciences,#FF1177,category/medical-sciences
+538,Green Chemistry,Chemistry,#00FFFF,category/chemistry
+539,Optometry,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+540,Textile Art,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+541,Italian Studies,Arts & Humanities,#FFEF00,category/arts-and-humanities
+542,Perception Motor Skills,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+543,World Trade; Law,Social Sciences & Economics,#F4FF00,category/social-sciences-and-economics
+544,Insects,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+545,Australian Ecology,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+546,Paints & Coatings,Chemistry,#00FFFF,category/chemistry
+547,Nursing Theory,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+548,Crustaceans,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+549,Laser Surgery,Healthcare & Nursing,#FF9933,category/healthcare-and-nursing
+550,Bulk Solid Handling,Engineering & Materials Science,#00F5FF,category/engineering-and-materials-science
+551,Wetlands,Environmental & Life Sciences,#CCFF00,category/environmental-and-life-sciences
+552,GIS (non English),Earth Sciences,#FF0055,category/earth-sciences
+553,Hydraulics,Computer Science & Engineering,#CC00FF,category/computer-science-and-engineering
+554,Agricultural Environmental Medicine,Microbiology & Immunology,#FF3131,category/microbiology-and-immunology
